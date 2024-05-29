@@ -1,5 +1,9 @@
 #  3D Printable 1:10 ball crayford reducer
 
+## Video :
+
+Check out [this mp4 video in operation](./IMG_9659.mp4)
+
 ## Advantages of a ball design
 
 - No backlash
@@ -22,4 +26,3 @@
 |--|--|--|
 |![](./screen1.png)|![](./screen2.png)|![](./screen3.png)|
 
-<video playsinline muted autoplay src="./IMG_9659.mp4"></video>
