@@ -1,9 +1,5 @@
 #  3D Printable 1:10 ball crayford reducer
 
-## Video :
-
-Check out [this mp4 video in operation](./IMG_9659.mp4)
-
 ## Advantages of a ball design
 
 - No backlash
@@ -16,11 +12,10 @@ Check out [this mp4 video in operation](./IMG_9659.mp4)
 
 ## BOM (temporary)
 
-- 3 M3x16 screws
-- 3 10mm steel balls
-- 3 springs to load the screws
-- A 3mm smooth pin
-- A 608ZZ bearing
+- 3 M2x16 screws
+- 3 7mm steel balls
+- A 2mm smooth pin
+- 2 624zz bearing
 
 | | | |
 |--|--|--|
